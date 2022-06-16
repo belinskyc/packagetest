@@ -13,9 +13,16 @@
 #   Check Package:             'Ctrl + Shift + E'
 #   Test Package:              'Ctrl + Shift + T'
 
-
-## need devtools
 ## create repo on Github
+# git init
+# git add and git commit
+# git remote add origin https://github.com/belinskyc/packagetest
+# git push -u origin master
+
+## To install package:
+# install.packages("devtools")
+# library(devtools)
+# install_github("belinskyc/packagetest")
 
 hello = function()
 {
