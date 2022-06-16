@@ -13,6 +13,10 @@
 #   Check Package:             'Ctrl + Shift + E'
 #   Test Package:              'Ctrl + Shift + T'
 
+
+## need devtools
+## create repo on Github
+
 hello = function()
 {
   cat("Hello, world!")
