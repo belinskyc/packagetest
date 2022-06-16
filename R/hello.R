@@ -19,5 +19,5 @@
 
 hello = function()
 {
-  cat("Hello, world!")
+  cat("Hello, world!!")
 }
